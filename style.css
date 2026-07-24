@@ -158,7 +158,7 @@ input[type="range"] {
   position: fixed;
   inset: -5%;
   z-index: -3;
-  background: url("images/background.jpg") center / cover no-repeat;
+  background: url("images/cat.png") center / cover no-repeat;
   will-change: transform;
   transition: opacity 0.45s ease;
 }
